@@ -1,10 +1,10 @@
-# Project 1 - Tipster
+# Project 1 - *Tipster*
 
-Tipster is a tip calculator application for iOS.
+**Tipster** is a tip calculator application for iOS.
 
-Submitted by: Robert Gallardo
+Submitted by: **Robert Gallardo**
 
-Time spent: 2.5 hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+The process of pushing and committing to gitHub posed a challenge because my local and online repositories were out of sync.
 
 ## Credits
 
